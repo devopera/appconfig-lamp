@@ -1,0 +1,1 @@
+<%=ipaddress%>     lamp-demo.localhost lamp-demo.dev lamp-demo.staging lamp-demo.live lamp-demo.<%=hostname%> lamp-demo.<%=fqdn%>
